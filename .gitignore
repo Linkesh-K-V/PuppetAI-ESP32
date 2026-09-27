@@ -1,0 +1,52 @@
+# =========================
+# Python & Environments
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+puppet_env/
+.venv/
+Pipfile.lock
+
+# =========================
+# Machine Learning / AI Models
+# =========================
+puppet_llm/
+puppet_llm_final/
+checkpoint-*/
+runs/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.h5
+
+# =========================
+# PlatformIO & ESP32 Firmware
+# =========================
+string_puppt/.pio/
+string_puppt/.vscode/
+*.hex
+*.elf
+
+# =========================
+# Project Specific Data
+# =========================
+*.bak
+*.jsonl.bak
+*.log
+temp/
+tmp/
+
+# =========================
+# IDEs & OS Files
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

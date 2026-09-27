@@ -1,0 +1,15 @@
+{"text": "<|user|>\nraise left hand</s>\n<|assistant|>\nLS:180, RS:92, LIFT:92, HL:92, HR:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise left hand</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise left hand</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise left hand</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise left hand</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise left hand</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise left hand</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise left hand</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise right hand</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise both hands</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise both hands</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise both hands</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<|user|>\nraise both hands</s>\n<|assistant|>\nLS:90, RS:92, LIFT:92, LH:92, RH:92, WAIT:1000 </s>"}
+{"text": "<s>[INST] exift [/INST] UP:LH:0.9 THEN UP:RH:0.9 THEN WAIT:0.3 THEN DOWN:RH:0.9 THEN DOWN:LH:0.918 THEN HOME </s>"}
+{"text": "<s>[INST] act shy [/INST] PRAYER THEN HOME </s>"}
